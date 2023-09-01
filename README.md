@@ -3,6 +3,8 @@
 
 [نسخه فارسی](https://github.com/vfarid/v2ray-worker/blob/main/README-fa.md)
 
+[آموزش یوتویوب](https://www.youtube.com/watch?v=Jb_6jmrKKyo)
+
 ## How to use
 
 To be completed...
